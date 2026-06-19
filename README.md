@@ -16,8 +16,8 @@ A serverless, globally available static website hosting my professional resume. 
   Integrated GitHub Actions to enable Continuous Integration/Continuous Deployment (CI/CD). This ensures that any update I make to my   code goes live within seconds, without manual intervention.
 
 ## 4. Challenges & Troubleshooting
-- **Challenge:** Initial DNS propagation delays.
-- **Resolution:** Utilized Azure’s built-in managed SSL/TLS certificates and verified the deployment status via the GitHub Actions logs.
+- **Challenge:** Azure App Services authorization to access my GitHub Account.
+- **Resolution:** Setting --> Code & Authomation --> Workflow Permissions --> set to "Read and write permissions".
 
 ## 5. Live Demo
-Check out my live resume here: [INSERT YOUR AZURE URL]
+Check out my live resume here: https://delightful-sand-08f866c10.7.azurestaticapps.net
