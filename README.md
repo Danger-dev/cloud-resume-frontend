@@ -17,7 +17,7 @@ A serverless, globally available static website hosting my professional resume. 
 
 ## 4. Challenges & Troubleshooting
 - **Challenge:** Azure App Services authorization to access my GitHub Account.
-- **Resolution**:  I changed the Workflow permissions to 'Read and write permissions
+- **Resolution**:Changed the Workflow permissions to 'Read and write permissions
 
 ## 5. Live Demo
 Check out my live resume here: [https://delightful-sand-08f866c10.7.azurestaticapps.net]
