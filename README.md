@@ -20,4 +20,4 @@ A serverless, globally available static website hosting my professional resume. 
 - **Resolution**:Changed the Workflow permissions to 'Read and write permissions
 
 ## 5. Live Demo
-Check out my live resume here: [https://delightful-sand-08f866c10.7.azurestaticapps.net]
+Check out my live resume here: (https://red-meadow-0c103fd10.7.azurestaticapps.net)
